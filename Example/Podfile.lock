@@ -1,0 +1,16 @@
+PODS:
+  - HYLearningUti (0.1.0)
+
+DEPENDENCIES:
+  - HYLearningUti (from `../`)
+
+EXTERNAL SOURCES:
+  HYLearningUti:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HYLearningUti: 1ae394455d9fc640e9a345a2e4ebbc458efeaac6
+
+PODFILE CHECKSUM: 4772abe24c27de2c37d6f8bde76161a32dd92bb6
+
+COCOAPODS: 1.9.3
