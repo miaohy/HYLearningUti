@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HYLearningUti_Example' do
+  pod 'HYLearningUti', :path => '../'
+
+  target 'HYLearningUti_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
